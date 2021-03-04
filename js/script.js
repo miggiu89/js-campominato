@@ -56,7 +56,7 @@ if (numeriUtente.length == numeroTentativi){
 document.getElementById('numero_prove').innerHTML = tentativi;
 
 
-// *****funzioni:
+// funzioni
 
 // genera numeri random
 function numeriRandom(min, max){
